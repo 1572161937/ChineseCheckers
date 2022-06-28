@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>picture/crystal-ball-4043805_1920(1).jpg</file>
+        <file>picture/crystal-ball-photography-3894871_1920(1).jpg</file>
+        <file>picture/No.1wp.jpg</file>
+        <file>picture/galaxy-3608029_640.jpg</file>
+        <file>picture/timo.jpg</file>
+        <file>picture/v2-bf60397e0ba812d487742eed56f02e34_b.jpg</file>
+        <file>picture/xiagu.jpg</file>
+        <file>picture/jg.jpg</file>
+        <file>picture/0_chess.jpg</file>
+        <file>picture/1_chess.jpg</file>
+        <file>picture/2_chess.jpg</file>
+        <file>picture/3_chess.jpg</file>
+        <file>picture/4_chess.jpg</file>
+        <file>picture/5_chess.jpg</file>
+        <file>picture/rank.jpg</file>
+        <file>picture/secondwindow.jpg</file>
+        <file>picture/connectwindow.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>picture/timo.jpg</file>
+        <file>picture/jg.jpg</file>
+    </qresource>
+</RCC>
